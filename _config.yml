@@ -1,7 +1,7 @@
 ---
-title: "My-journey-of-code-writing"
+title: "My journey of code writing"
 date: 2022-08-23
----
+
 author: Daniel Lukacs
 email: lukacs.daniel97@protonmail.com
 description: > This is the story of my programming journey.
@@ -12,3 +12,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
