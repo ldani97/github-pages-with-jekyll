@@ -1,1 +1,4 @@
-Running some texts to see how this whole thing will look like.
+---
+title: "My journey of code writing"
+date: 2022-08-23
+---
